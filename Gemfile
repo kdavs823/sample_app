@@ -6,7 +6,6 @@ gem 'rails', '3.2.9'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 source 'http://rubygems.org'
-gem 'rails', '3.0.1'
 gem 'sqlite3-ruby', '1.2.5', :group => :development
 
 
